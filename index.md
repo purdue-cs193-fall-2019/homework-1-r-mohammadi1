@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Raha's Website
+!(Picture of a vulture is supposed to load here.) (https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Trigonoceps_occipitalis_-Las_Aguilas_Jungle_Park%2C_Tenerife%2C_Spain-8a_(4).jpg/1200px-Trigonoceps_occipitalis_-Las_Aguilas_Jungle_Park%2C_Tenerife%2C_Spain-8a_(4).jpg)
+### Why we should use C++ instead of Java
+1. I like C++
+2. There are more libraries
+3. cout is a *lot* shorter than System.out.println()
+4. I am used to it
+5. C++ can do literally everything
+6. I like it when not everything has to be a class
+7. Java is RAM eating juice
+### If I have to use Java, I guess I'll just put up with it but C++ will always be my favorite
+### Now here is a list of animals that are cute but underrated
+- Slugs and snails (slime bunnies!)
+- Lizards 
+- Vultures, especially baby vultures, because they're super fuzzy
+- Crows (very intelligent)
+- Daphnia
+- Jumping spiders (not when they randomly appear in my room though)
+- FUZZY MOTH 
+- Sharks. Shark attacks are super uncommon and more people die of beestings than shark attacks
+### Q: Why does stackoverflow keep marking my questions as duplicate?
+A:   \[This disscussion has been marked as a duplicate.]
