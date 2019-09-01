@@ -1,5 +1,5 @@
 ### Raha's Website
-!(Picture of a vulture is supposed to load here.) (https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Trigonoceps_occipitalis_-Las_Aguilas_Jungle_Park%2C_Tenerife%2C_Spain-8a_(4).jpg/1200px-Trigonoceps_occipitalis_-Las_Aguilas_Jungle_Park%2C_Tenerife%2C_Spain-8a_(4).jpg)
+!(Picture of a vulture is supposed to load here.)(https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Trigonoceps_occipitalis_-Las_Aguilas_Jungle_Park%2C_Tenerife%2C_Spain-8a_(4).jpg/1200px-Trigonoceps_occipitalis_-Las_Aguilas_Jungle_Park%2C_Tenerife%2C_Spain-8a_(4).jpg)
 ### Why we should use C++ instead of Java
 1. I like C++
 2. There are more libraries
