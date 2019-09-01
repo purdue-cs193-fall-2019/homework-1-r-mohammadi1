@@ -24,4 +24,4 @@
 - FUZZY MOTH 
 - Sharks. Shark attacks are super uncommon and more people die of beestings than shark attacks
 ## Q: Why does stackoverflow keep marking my questions as duplicate?
-A:   \[This disscussion has been marked as a duplicate.]
+A:   \[This question has been marked as a duplicate.]
